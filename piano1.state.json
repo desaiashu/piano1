@@ -122,7 +122,7 @@
           ]
         },
         "midiInput": null,
-        "inputMonitoring": "auto"
+        "inputMonitoring": "off"
       }
     }
   },
