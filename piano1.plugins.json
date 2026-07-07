@@ -43,7 +43,7 @@
         "compDetectMode": 0.0,
         "compAutoRelease": 0.0,
         "compLookaheadMs": 0.0,
-        "driveMode": 0.0,
+        "driveMode": 0.04,
         "driveBias": 20.0,
         "driveStages": 2.0,
         "driveHardness": 50.0,
