@@ -30,3 +30,9 @@ returns
     strip tivraStrip
 
 sec main
+  trk 1 audio |ozw
+    c 0:0 0:0 |ctem
+      samples/recording_1783461113_0.wav
+      lane 0
+        c 0:0 0:0 |dpwj
+          samples/recording_1783461113_0.wav
