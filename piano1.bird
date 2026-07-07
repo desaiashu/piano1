@@ -31,8 +31,11 @@ returns
 
 sec main
   trk 1 audio |ozw
-    c 0:0 0:0 |ctem
-      samples/recording_1783461113_0.wav
+    c 0:0 77:291 |bfrd
+      samples/recording_1783461257_0.wav
       lane 0
-        c 0:0 0:0 |dpwj
+        c 0:0 72:223 |dpwj
           samples/recording_1783461113_0.wav
+      lane 1
+        c 0:0 77:291 |bcse
+          samples/recording_1783461257_0.wav
