@@ -112,7 +112,7 @@
   "recording": {
     "armState": {
       "lmq": {
-        "armed": false,
+        "armed": true,
         "audioSource": {
           "type": "hardware",
           "deviceName": "Audient iD14",
