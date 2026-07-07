@@ -11,7 +11,7 @@
         ]
       },
       "midiInput": null,
-      "inputMonitoring": "off"
+      "inputMonitoring": "auto"
     }
   }
 }
