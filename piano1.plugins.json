@@ -8,7 +8,7 @@
       "enabled": true,
       "state": {
         "inputGainDb": 0.0,
-        "loCutFreq": 16.0,
+        "loCutFreq": 88.0,
         "hiCutFreq": 22000.0,
         "eqLowGain": 0.0,
         "eqLowFreq": 100.0,
