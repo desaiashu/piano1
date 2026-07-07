@@ -28,26 +28,8 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "lha",
-      "returnId": "rgt",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "lha",
-      "returnId": "rya",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "lha",
-      "returnId": "rqb",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "ozw",
-      "returnId": "rya",
+      "returnId": "rgt",
       "gain": 0.0,
       "preFader": false
     },
@@ -58,20 +40,38 @@
       "preFader": false
     },
     {
-      "trackId": "ozw",
-      "returnId": "rsw",
+      "trackId": "lha",
+      "returnId": "rgt",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "ozw",
-      "returnId": "rgt",
+      "returnId": "rya",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "lha",
       "returnId": "rsw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ozw",
+      "returnId": "rsw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lha",
+      "returnId": "rqb",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lha",
+      "returnId": "rya",
       "gain": 0.0,
       "preFader": false
     }
@@ -111,7 +111,7 @@
     }
   },
   "master": {
-    "id": "med",
+    "id": "myn",
     "gain": 1.0,
     "muted": false,
     "mono": false

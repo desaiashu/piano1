@@ -18,7 +18,7 @@
         "name": "audio",
         "trackType": "audio",
         "auditionLane": null,
-        "takeLaneCount": 3,
+        "takeLaneCount": 0,
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
@@ -131,8 +131,8 @@
   },
   "project": {
     "metadata": {
-      "id": "wtgsjm",
-      "name": "Untitled",
+      "id": "hurpkk",
+      "name": "piano1",
       "formatVersion": "2.0.0",
       "createdAt": "",
       "modifiedAt": ""
@@ -158,10 +158,10 @@
       "linkEnabled": false,
       "linkStartStopSync": true,
       "linkCustomOffsetMs": 0.0,
-      "directMonitoring": false
+      "directMonitoring": true
     },
     "appearance": {
-      "theme": "dark"
+      "theme": "system"
     },
     "ai": {
       "aiComfort": 3,
@@ -170,17 +170,17 @@
     },
     "workflow": {
       "vibeMode": false,
-      "experienceLevel": 2,
+      "experienceLevel": 3,
       "defaultChannelStrip": null,
-      "pluginMode": "slotsExpanding"
+      "pluginMode": "canvas"
     },
     "playback": {
       "previewVolume": 0.7
     },
     "audioDevices": {
-      "audioOutputDevice": "MacBook Pro Speakers",
-      "audioInputDevice": "Audient iD14"
+      "audioOutputDevice": "Default",
+      "audioInputDevice": "None"
     },
-    "hasApiKey": true
+    "hasApiKey": false
   }
 }
