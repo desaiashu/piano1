@@ -18,7 +18,7 @@
         "name": "audio",
         "trackType": "audio",
         "auditionLane": null,
-        "takeLaneCount": 2,
+        "takeLaneCount": 3,
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
@@ -158,10 +158,10 @@
       "linkEnabled": false,
       "linkStartStopSync": true,
       "linkCustomOffsetMs": 0.0,
-      "directMonitoring": true
+      "directMonitoring": false
     },
     "appearance": {
-      "theme": "system"
+      "theme": "dark"
     },
     "ai": {
       "aiComfort": 3,
@@ -170,17 +170,17 @@
     },
     "workflow": {
       "vibeMode": false,
-      "experienceLevel": 3,
+      "experienceLevel": 2,
       "defaultChannelStrip": null,
-      "pluginMode": "canvas"
+      "pluginMode": "slotsExpanding"
     },
     "playback": {
       "previewVolume": 0.7
     },
     "audioDevices": {
-      "audioOutputDevice": "Default",
-      "audioInputDevice": "None"
+      "audioOutputDevice": "MacBook Pro Speakers",
+      "audioInputDevice": "Audient iD14"
     },
-    "hasApiKey": false
+    "hasApiKey": true
   }
 }

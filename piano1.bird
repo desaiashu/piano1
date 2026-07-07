@@ -31,9 +31,14 @@ returns
 
 sec main
   trk 1 audio |ozw
+    c 0:0 152:177 |lyxr
+      samples/recording_1783461410_0.wav
       lane 0
         c 0:0 72:223 |dpwj
           samples/recording_1783461113_0.wav
       lane 1
         c 0:0 77:291 |bcse
           samples/recording_1783461257_0.wav
+      lane 2
+        c 0:0 152:177 |lxww
+          samples/recording_1783461410_0.wav
