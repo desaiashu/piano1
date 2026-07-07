@@ -10,5 +10,9 @@
   "samples/recording_1783461257_0.wav": {
     "sha256": "e9bda52b2b25d3be047c72484ed7848c28d90384802ceca27cdc3b13825a6de7",
     "bytes": 55124036
+  },
+  "samples/recording_1783461410_0.wav": {
+    "sha256": "e9c4891c94879bd6a0564d077bd8ae37f515d1e75fa06f626f89553fa4b0748f",
+    "bytes": 108082580
   }
 }
