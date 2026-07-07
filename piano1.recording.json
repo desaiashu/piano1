@@ -1,7 +1,7 @@
 {
   "armState": {
     "ozw": {
-      "armed": false,
+      "armed": true,
       "audioSource": {
         "type": "hardware",
         "deviceName": "Audient iD14",
