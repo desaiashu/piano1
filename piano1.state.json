@@ -110,7 +110,21 @@
     }
   },
   "recording": {
-    "armState": {}
+    "armState": {
+      "ozw": {
+        "armed": false,
+        "audioSource": {
+          "type": "hardware",
+          "deviceName": "Audient iD14",
+          "channels": [
+            0,
+            1
+          ]
+        },
+        "midiInput": null,
+        "inputMonitoring": "auto"
+      }
+    }
   },
   "automation": {
     "lanes": {}
