@@ -4,7 +4,11 @@
     "bytes": 12369988
   },
   "samples/recording_1783461113_0.wav": {
-    "sha256": "98f70f64e49942442fe291f9ca13ca7d5f369b9a1ba92f6ec66285e59167cfe8",
-    "bytes": 1867776
+    "sha256": "85fc2cae9939c4e4f792529cb88cbb2ea92265ed1eb709747c6e8fff610d2927",
+    "bytes": 51454020
+  },
+  "samples/recording_1783461257_0.wav": {
+    "sha256": "e9bda52b2b25d3be047c72484ed7848c28d90384802ceca27cdc3b13825a6de7",
+    "bytes": 55124036
   }
 }
